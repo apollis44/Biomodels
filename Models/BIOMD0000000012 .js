@@ -1,4 +1,4 @@
-export class BIOMD0000000012 {
+class BIOMD0000000012 {
   constructor(base, user, unusedUserAction) {
     this.base = base;
     this.internal = {};
